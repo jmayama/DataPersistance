@@ -1,0 +1,77 @@
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\Temp\bin\Debug\UnityEditor.dll
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\Temp\bin\Debug\UnityEngine.dll
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\Temp\bin\Debug\Mono.Cecil.dll
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\Temp\bin\Debug\nunit.framework.dll
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\Temp\bin\Debug\Unity.DataContract.dll
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\obj\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 6 - Interactive Environments\obj\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\Temp\bin\Debug\UnityEditor.dll
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\Temp\bin\Debug\UnityEngine.dll
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\Temp\bin\Debug\Mono.Cecil.dll
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\Temp\bin\Debug\nunit.framework.dll
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\Temp\bin\Debug\Unity.DataContract.dll
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\obj\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 7 - Controlling Animations\obj\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\Temp\bin\Debug\UnityEditor.dll
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\Temp\bin\Debug\UnityEngine.dll
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\Temp\bin\Debug\Mono.Cecil.dll
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\Temp\bin\Debug\nunit.framework.dll
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\Temp\bin\Debug\Unity.DataContract.dll
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\obj\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 8 - Controlling Animations\obj\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\Temp\bin\Debug\UnityEditor.dll
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\Temp\bin\Debug\UnityEngine.dll
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\Temp\bin\Debug\Mono.Cecil.dll
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\Temp\bin\Debug\nunit.framework.dll
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\Temp\bin\Debug\Unity.DataContract.dll
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\obj\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 12 - PersistentData - Final\obj\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\obj\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\Temp\bin\Debug\UnityEditor.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\Temp\bin\Debug\UnityEngine.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\Temp\bin\Debug\Mono.Cecil.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\Temp\bin\Debug\nunit.framework.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\Temp\bin\Debug\Unity.DataContract.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentDataContinued - Final\obj\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\obj\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\Temp\bin\Debug\UnityEditor.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\Temp\bin\Debug\UnityEngine.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\Temp\bin\Debug\Mono.Cecil.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\Temp\bin\Debug\nunit.framework.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\Temp\bin\Debug\Unity.DataContract.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Teaching\LectureProjects\Week 13 - PersistentData - Final\obj\Debug\Assembly-CSharp.pdb
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\Temp\bin\Debug\UnityEditor.dll
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\Temp\bin\Debug\UnityEngine.dll
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\Temp\bin\Debug\nunit.framework.dll
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\obj\Debug\Assembly-CSharp.dll
+C:\Users\hahne\Desktop\Week 13\Week 13 - Optimization\obj\Debug\Assembly-CSharp.pdb
